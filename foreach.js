@@ -8,6 +8,6 @@ notas.forEach (media => somaDasNotas += media);
 //    somaDasNotas += nota;
 // })
 
-// const media = somaDasNotas / notas.length;
+const media = somaDasNotas / notas.length;
 
 console.log(`A média das notas é ${somaDasNotas}`);
